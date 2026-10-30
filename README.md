@@ -76,6 +76,7 @@ Julia has an entire organization called [Scientific Machine Learning (Sciml)](ht
 - DifferentialEquations.jl [`code`](https://github.com/SciML/DifferentialEquations.jl) [`docs`](https://diffeq.sciml.ai/stable/) <br> Differential equations solvers.
 - DiffEqFlux.jl [`code`](https://github.com/SciML/DiffEqFlux.jl) [`docs`](https://docs.sciml.ai/DiffEqFlux/stable/) <br> Interface to build all variaties of neural differential equations.
 - NeuralPDEs.jl [`code`](https://github.com/SciML/NeuralPDE.jl) [`docs`](https://docs.sciml.ai/NeuralPDE/stable/) <br> Interface to build Physics Informed Neural Networks.
+- DyadModelOptimizer.jl [`code`](https://github.com/DyadLang/DyadModelOptimizer.jl) [`docs`](https://help.juliahub.com/dyad/DyadModelOptimizer.jl/stable/) <br> Parameter estimation and global sensitivity analysis for fitting physical models to data. Part of the commercial, source-available Dyad toolchain.
 
 <a name="software-python"></a>
 ### Python
